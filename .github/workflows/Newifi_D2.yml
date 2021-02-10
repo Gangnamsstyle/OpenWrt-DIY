@@ -21,7 +21,7 @@ on:
   #push:
    # branches: 
     #  - master
-  schedule:
+  #schedule:
      - cron: 08 11 * * *
 
 env:
